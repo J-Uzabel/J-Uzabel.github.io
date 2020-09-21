@@ -4,7 +4,7 @@ My personal github page [is here](https://github.com/J-Uzabel/).
 
 ### Task List
 
-Below is a list of tasks I'm planning to complete in the future. Completed tasks are marked with a :heavy_check_mark:
+Below is a list of tasks I'm planning to complete in the future. Completed tasks are marked with a ✔
 
 ##### Tasks for CS-HU 250
 
