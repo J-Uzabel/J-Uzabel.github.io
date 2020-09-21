@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/J-Uzabel/J-Uzabel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My personal github page [is here](https://github.com/J-Uzabel/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Task List
 
-### Markdown
+Below is a list of tasks I'm planning to complete in the future. Completed tasks are marked with a :heavy_check_mark:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Tasks for CS-HU 250
 
-```markdown
-Syntax highlighted code block
+- [x] Build a github pages website
+- [x] Submit a screenshot of my github page
+- [ ] Finish the CS-HU 250 course
 
-# Header 1
-## Header 2
-### Header 3
+### Table
 
-- Bulleted
-- List
+Here's a table I made using markdown!
 
-1. Numbered
-2. List
+Column 1 | Column 2
+------------ | -------------
+Content for cell 1 | Content for cell 2
+Content for cell 3 | Content for cell 4
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/J-Uzabel/J-Uzabel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
